@@ -34,7 +34,9 @@ project :
      physical_name : .\WIN_principal.wdw
      type : 2
   other_elements : []
-  array_of_analysis : []
+  array_of_analysis :
+   -
+     analysis : .\projetoGrupo.ana\projetoGrupo.wda
   net_assemblies : []
   uwp_api : []
   external_components : []
